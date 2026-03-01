@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "IIT Bombay Main Gate Security",
+    "lat": 19.1334,
+    "lon": 72.9133
+  },
+  {
+    "id": 2,
+    "name": "Hostel Area Security Post",
+    "lat": 19.135,
+    "lon": 72.915
+  },
+  {
+    "id": 3,
+    "name": "Hospital/Medical Centre IIT",
+    "lat": 19.132,
+    "lon": 72.914
+  },
+  {
+    "id": 4,
+    "name": "24hr Convenience Store",
+    "lat": 19.136,
+    "lon": 72.912
+  },
+  {
+    "id": 5,
+    "name": "Library Security Desk",
+    "lat": 19.134,
+    "lon": 72.916
+  }
+]

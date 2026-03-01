@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+osmnx
+networkx
+scikit-learn
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+python-dotenv
